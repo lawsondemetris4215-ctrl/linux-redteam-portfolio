@@ -1,12 +1,12 @@
-# 01 - Linux Basics
+# 02 - Command Line Mastery
 
-This section covers foundational Linux knowledge.
+This section focuses on advanced command-line usage.
 
 Topics:
-- File system navigation
-- File permissions
-- Users and groups
-- Basic process management
+- grep, sed, awk
+- Piping and redirection
+- Process monitoring
+- Basic networking commands
 
 Goal:
-Become comfortable moving around the Linux terminal and understanding how the system is structured.
+Think like a power user and analyze system output efficiently.
